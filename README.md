@@ -1,2 +1,2 @@
-# netflix-data-analysis
- Analysing data downloaded from netflix account. In 
+# Netflix Data Analysis
+ Analysing data downloaded from netflix account using pandas and matplotlib. In this python notebook *viewing activity of a specific netflix program* and *Netflix usage during covid times* are visualised.
